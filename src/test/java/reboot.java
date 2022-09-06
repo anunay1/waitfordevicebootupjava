@@ -50,6 +50,8 @@ public class reboot {
         if (counter == 0)
         {
             System.out.println("Device did not boot up successfully");
+
+
         }
 
     }
